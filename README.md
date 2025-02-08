@@ -1,38 +1,18 @@
-# Hi there, I'm Taqwa Al-Shorman 👋
+<h1 align="center">Hi 👋, I'm Taqwashorman</h1>
+<h3 align="center">Computer Engineer from Jordan</h3>
 
-Welcome to my GitHub profile! I'm a passionate Computer Engineer and Data Scientist with hands-on experience in machine learning, data analytics, and artificial intelligence. Here's a bit about me:
+- 🔭 I’m currently working as **  Data Science Intern at AppTrainers**
 
-## 🚀 About Me
+- 🌱 I’m learning **advanced machine learning techniques and data science methodologies.**
 
-- 💻 I’m currently working as a Data Science Intern at AppTrainers and a Coding Instructor at JeelCode.
-- 🌱 I’m learning advanced machine learning techniques and data science methodologies.
-- 👯 I want to collaborate on data science, AI, and business intelligence projects.
-- 💬 Ask me about Machine Learning, Python, and machine learning.
-- 📫 How to reach me: [taqwashorman550@gmail.com](mailto:taqwashorman550@gmail.com)
-- 😄 Pronouns: She/Her
+- 💬 Ask me about **Machine Learning, Python.**
 
-## 🛠️ Languages and Tools
+- 📫 How to reach me **taqwashorman550@gmail.com**
 
-- **Programming Languages:** Python, SQL, C++, C, HTML, CSS, C#
-- **Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning, Python (e.g. Pandas, NumPy, Scikit-learn)
-- **Technical Tools:** Jupyter Notebook, Google Colab, PyCaret, Power BI, Tableau, MySQL, Streamlit
-- **Data Science & Analysis:** Data Cleaning, Data Processing, Exploratory Data Analysis (EDA), Feature Engineering and Selection, Statistical Analysis, Predictive Modeling, Data Visualization (Matplotlib, Seaborn), SQL for Data Manipulation
-- **Version Control & Collaboration:** Git, GitHub, Jira
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/taqwaalshorman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taqwaalshorman/" height="30" width="40" /></a>
+</p>
 
-## 🏫 Education
-
-**Yarmouk University**  
-Bachelor in Computer Engineering  
-
-## 📜 Certifications
-
-- **Electro Pi Platform:** Supervised and Unsupervised Learning Foundations, Neural Networks Foundation
-- **Udacity:** Data Analysis Fundamentals
-- **NVIDIA:** Fundamentals of Deep Learning
-
-## 📫 Connect with Me
-
-- LinkedIn: [linkedin.com/in/taqwaalshorman](https://www.linkedin.com/in/taqwaalshorman)
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.
-
-Happy coding! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
