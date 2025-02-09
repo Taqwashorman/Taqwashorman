@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taqwashorman</h1>
 <h3 align="center">Computer Engineer from Jordan</h3>
 
-- 🔭 I’m currently working as **Data Science Intern at AppTrainers**
+- 🔭 I’m currently working as **Data Scientist at AppTrainers**
 
 - 🌱 I’m learning **advanced machine learning techniques and data science methodologies.**
 
