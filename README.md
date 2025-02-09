@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taqwashorman</h1>
-<h3 align="center">Computer Engineer from Jordan</h3>
+<h3 align="center">Data Scientist from Jordan</h3>
 
 - 🔭 I’m currently working as **Data Scientist at AppTrainers**
 
