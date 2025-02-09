@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **advanced machine learning techniques and data science methodologies.**
 
-- 💬 Ask me about **Machine Learning, Python.**
+- 💬 Ask me about **Machine Learning, Power BI, Python.**
 
 - 📫 How to reach me **taqwashorman550@gmail.com**
 
